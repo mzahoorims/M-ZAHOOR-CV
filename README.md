@@ -30,6 +30,13 @@ Proficient in multiple programming languages and frameworks with strong problem-
 ### 🏗️ Architectural Patterns
 - MVVM, MVC, MVP
 
+
+### 📺 Adds Integration 
+- Banner Ads, Interstitial Ads, Rewarded Ads
+
+### 📱 AppStore 
+- Publishing Apps on AppStore
+
 ### 🧰 Additional Skills
 - Problem Solving, Client Communication, Agile Development, Cross-functional Collaboration, Decision Making, Quality Assurance, Quick Learning
 
@@ -50,7 +57,9 @@ Proficient in multiple programming languages and frameworks with strong problem-
 - Navigator & Routing Management  
 - Third-Party SDK Integrations  
 - Cross-Platform (Android & iOS)  
-- CI/CD Pipelines  
+- CI/CD Pipelines
+-  Publishing Apps on AppStore
+-   Ads Integration (Banner Ads, Interstitial Ads, Rewarded Ads)
 
 ---
 
