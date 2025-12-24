@@ -73,7 +73,7 @@ Institute of Management and Sciences (IMSciences), Peshawar
 
 ## 💼 Professional Experience
 
-### 🧑‍💻 Flutter Developer — Logic Valley Pvt. Ltd (4 months)
+### 🧑‍💻 Flutter Developer — Logic Valley Pvt. Ltd (6 months)
 *Rawalpindi, Pakistan*  
 - Collaborated with senior developers to design and enhance mobile apps.  
 - Worked on **Dart programming**, **state management**, **Firebase**, and **API integration**.  
