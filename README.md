@@ -44,12 +44,13 @@ Proficient in multiple programming languages and frameworks with strong problem-
 
 ## 📱 Mobile App Development Expertise
 
-- RESTful API Integration  
+- RESTful API Integration
+- State Management(Provider, GetX, Riverpod)
 - Responsive UI & UX Design  
 - Firebase (Realtime & Firestore) Integration  
 - Push & Schedule Notifications  
 - Google Sign-In  
-- Payment Gateways (PayPal, Stripe)  
+- Payment Gateways (PayPal, Stripe etc)  
 - SQLite Database  
 - Theming, Animation & Localization  
 - Maps & Geolocation Services  
